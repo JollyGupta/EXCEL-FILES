@@ -1,0 +1,15 @@
+Advanced Pivot Table Tricks
+1.One Slicer, Two Pivots
+2.Distinct Count(Using Data Model feature)
+3.Value and Percent in same Pivot
+4.Layout Tricks
+5.Two Tables, One Pivot(Data Model feature of Excel to connect multiple tables and create pivots from them. This technique opens up doors for advanced data analysis with ease)
+6.Two Files, One Pivot(Excel Power Query to connect to multiple files and fetch the data. We can then load this data in to “Data model” and create pivot tables from it easily)
+7.Top 10 Filter using Slicers
+
+8.Measures & DAX with Power Pivot(data model to create power pivot reports too)
+9.Grouping Data
+a. Grouping Data without Data Model
+b.Grouping Data WITH Data Model
+10.Conditional Formatting for Pivots
+11.Interactive Pivot Charts
